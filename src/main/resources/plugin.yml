@@ -1,0 +1,12 @@
+name: Test
+version: '${project.version}'
+main: me.testing.testing.Test
+api-version: '1.21'
+commands:
+  setspawn:
+    description: Set a spawn point
+    permission: test.setspawn
+  join:
+    description: Join game
+  start:
+    description: Start game
