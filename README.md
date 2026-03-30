@@ -1,4 +1,5 @@
 # Rager
 *In Development*
 
-<img width="642" height="360" alt="image" src="https://github.com/user-attachments/assets/0579e5e8-df74-4cac-9afc-93983b076ad5" />
+
+<img width="1280" height="640" alt="Scary" src="https://github.com/user-attachments/assets/8b9f198b-4385-45f7-a2f2-3836ec515f22" />
