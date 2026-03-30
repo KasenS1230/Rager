@@ -10,3 +10,8 @@ commands:
     description: Join game
   start:
     description: Start game
+  end:
+    description: End game
+  setlobbyspawn:
+    description: Set a lobby spawn point
+    permission: test.setlobbyspawn
