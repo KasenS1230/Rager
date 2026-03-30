@@ -2,4 +2,4 @@
 *In Development*
 
 
-<img width="1280" height="640" alt="Scary" src="https://github.com/user-attachments/assets/8b9f198b-4385-45f7-a2f2-3836ec515f22" />
+<img width="1280" height="640" alt="Scary (1)" src="https://github.com/user-attachments/assets/97f00c1f-48b6-481a-843d-1d9401b8c234" />
